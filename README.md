@@ -38,5 +38,5 @@ A random forest classifier is instantiated and trained using the training data. 
 *  Evaluate Random Forest Model
 Similar to the logistic regression model, the random forest model is evaluated on the test set using confusion matrix and classification report. This helps in comparing the performance of both models.
 
-Conclusion - Random forest has highest accuracy.
+# Conclusion - Random forest has highest accuracy.
 
